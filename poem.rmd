@@ -17,7 +17,11 @@ you, if you change any of this the git program will notice it and compromise you
 <!--Put the first five lines of a poem by Lewis Carrol in this section!-->
 
 ## Second Verse
-<!--Put the first five lines of a poem by Robert Frost here!-->
+<!--Put the first five lines of a poem by Robert Frost here!-->  
+In a yellow wood, the traveler stands,  
+Two winding paths stretch out like hands.  
+One is bright with footprints worn,  
+The other wild, by nature adorned.  
 
 ## Third Verse
 <!--Put the first two verses of The Walrus and the Carpenter here!-->
